@@ -8,9 +8,8 @@ public class Main {
         queue.add("b");
         queue.add("c");
         queue.add("d");
-        queue.add("e");
 
-        queue.remove();
+
 
         System.out.print(queue);
 

@@ -1,4 +1,4 @@
-package com.task.chapter2.task16;
+package com.task.chapter2.task17;
 
 
 public class Queue {
@@ -22,6 +22,23 @@ public class Queue {
         @Override
         public String toString(){
             return item;
+        }
+    }
+
+    public class Iterator{
+        private Node node;
+
+        private Iterator(){
+            node = first;
+        }
+
+        public Node next(){
+            Node result = node;
+            node = node.getNext();
+            return result;
+        }
+        public boolean hasNext(){
+           return node!=null;
         }
     }
 
@@ -52,11 +69,14 @@ public class Queue {
     @Override
     public String toString(){
         String result = "";
-        for(Node temp=first;temp!=null;temp = temp.getNext()){
+        for(Node temp=first;temp!=last;temp = temp.getNext()){
             result = result + temp;
         }
-
         return result;
+    }
+
+    public Iterator iterator(){
+        return new Iterator();
     }
 
 }
