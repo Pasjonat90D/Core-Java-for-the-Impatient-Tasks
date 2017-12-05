@@ -7,8 +7,8 @@ import java.util.stream.Stream;
 
 public class Main {
     public static void main(String[] args) {
-        String fileString = System.getProperty("user.dir") + "\\src\\main\\java\\com\\task\\chapter8\\task2" +
-                "\\War_and_Peace\\wrnpc.txt";
+        String fileString = System.getProperty("user.dir") + "\\src\\main\\java\\com\\task\\chapter8\\txt" +
+                "\\War_and_Peace.txt";
         try (Stream<String> stream = Files.lines(Paths.get(fileString))) {
             long timeStart = System.currentTimeMillis();
             long count = stream.filter(s -> s.length() > 10).count();

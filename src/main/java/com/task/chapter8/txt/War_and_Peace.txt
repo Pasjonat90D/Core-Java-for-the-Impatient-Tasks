@@ -3066,7 +3066,7 @@ And the conversation again turned on the war, on Bonaparte, and the generals and
 
 “The past always seems good,” said he, “but did not Suvórov himself fall into a trap Moreau set him, and from which he did not know how to escape?”
 
-“Who told you that? Who?” cried the prince. “Suvórov!” And he jerked away his plate, which Tíkhon briskly caught. “Suvórov!... Consider, Prince Andrew. Two... Frederick and Suvórov; Moreau!... Moreau would have been a prisoner if Suvórov had had a free hand; but he had the Hofs-kriegs-wurst-schnapps-Rath on his hands. It would have puzzled the devil himself! When you get there you’ll find out what those Hofs-kriegs-wurst-Raths are! Suvórov couldn’t manage them so what chance has Michael Kutúzov? No, my dear boy,” he continued, “you and your generals won’t get on against Buonaparte; you’ll have to call in the French, so that birds of a feather may fight together. The German, Pahlen, has been sent to New York in America, to fetch the Frenchman, Moreau,” he said, alluding to the invitation made that year to Moreau to enter the Russian service.... “Wonderful!... Were the Potëmkins, Suvórovs, and Orlóvs Germans? No, lad, either you fellows have all lost your wits, or I have outlived mine. May God help you, but we’ll see what will happen. Buonaparte has become a great commander among them! Hm!...”
+“Who told you that? Who?” cried the prince. “Suvórov!” And he jerked away his plate, which Tíkhon briskly caught. “Suvórov!... Consider, Prince Andrew. Two... Frederick and Suvórov; Moreau!... Moreau would have been a prisoner if Suvórov had had a free hand; but he had the Hofs- kriegs- wurst- schnapps- Rath on his hands. It would have puzzled the devil himself! When you get there you’ll find out what those Hofs-kriegs-wurst-Raths are! Suvórov couldn’t manage them so what chance has Michael Kutúzov? No, my dear boy,” he continued, “you and your generals won’t get on against Buonaparte; you’ll have to call in the French, so that birds of a feather may fight together. The German, Pahlen, has been sent to New York in America, to fetch the Frenchman, Moreau,” he said, alluding to the invitation made that year to Moreau to enter the Russian service.... “Wonderful!... Were the Potëmkins, Suvórovs, and Orlóvs Germans? No, lad, either you fellows have all lost your wits, or I have outlived mine. May God help you, but we’ll see what will happen. Buonaparte has become a great commander among them! Hm!...”
 
 “I don’t at all say that all the plans are good,” said Prince Andrew, “I am only surprised at your opinion of Bonaparte. You may laugh as much as you like, but all the same Bonaparte is a great general!”
 
@@ -26036,7 +26036,7 @@ End of the Project Gutenberg EBook of War and Peace, by Leo Tolstoy
 
 ***** This file should be named 2600-h.htm or 2600-h.zip *****
 This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/2/6/0/2600/
+        http: // www. gutenberg . org /2 /6 /0 / 2600/
 
 An Anonymous Volunteer, and David Widger
 
@@ -26073,7 +26073,7 @@ distribution of electronic works, by using or distributing this work
 (or any other work associated in any way with the phrase “Project
 Gutenberg”), you agree to comply with all the terms of the Full Project
 Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
+http:// gutenberg .org / license).
 
 
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
@@ -26316,7 +26316,7 @@ The Project Gutenberg Literary Archive Foundation is a non profit
 state of Mississippi and granted tax exempt status by the Internal
 Revenue Service.  The Foundation’s EIN or federal tax identification
 number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+http:// pglaf.org/ fundr aising .  Contributions to the Project Gutenberg
 Literary Archive Foundation are tax deductible to the full extent
 permitted by U.S. federal laws and your state’s laws.
 
@@ -26326,7 +26326,7 @@ throughout numerous locations.  Its business office is located at
 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
 business@pglaf.org.  Email contact links and up to date contact
 information can be found at the Foundation’s web site and official
-page at http://pglaf.org
+page at http:// pglaf . org
 
 For additional contact information:
      Dr. Gregory B. Newby
@@ -26352,7 +26352,7 @@ considerable effort, much paperwork and many fees to meet and keep up
 with these requirements.  We do not solicit donations in locations
 where we have not received written confirmation of compliance.  To
 SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
+particular state visit http:// pglaf.o rg
 
 While we cannot and do not solicit contributions from states where we
 have not met the solicitation requirements, we know of no prohibition
@@ -26366,7 +26366,7 @@ outside the United States.  U.S. laws alone swamp our small staff.
 Please check the Project Gutenberg Web pages for current donation
 methods and addresses.  Donations are accepted in a number of other
 ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
+To donate, please visit: http:/ /pglaf. org / donate
 
 
 Section 5.  General Information About Project Gutenberg-tm electronic
@@ -26386,7 +26386,7 @@ keep eBooks in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.org
+     http://www .gutenberg .org
 
 This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
