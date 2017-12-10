@@ -1,6 +1,5 @@
 package com.task.chapter9.task7;
 
-import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.security.DigestException;
@@ -25,7 +24,6 @@ public class Main {
 
 
     private static String sha_1(String filePath) throws DigestException, NoSuchAlgorithmException, IOException {
-        File file = new File(filePath);
         MessageDigest md = MessageDigest.getInstance("SHA-1");
 
         FileInputStream fileStream = new FileInputStream(filePath);
